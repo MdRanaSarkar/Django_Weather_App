@@ -1,6 +1,6 @@
 # Django_Weather_App
 Here is shown how to create weather app using . 
-#Too Pull Just go to branch and pull . 
+Too Pull Just go to branch and pull . 
 Congratz. 
 To get more videos just do subcribe Easy CSE Learn Channel . 
 
